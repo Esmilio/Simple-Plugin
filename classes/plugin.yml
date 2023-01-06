@@ -1,0 +1,26 @@
+name: TestPlugin
+version: '1.0'
+main: me.manuelsw.TestPlugin
+commands:
+  fly:
+  ab:
+  vanish:
+    aliases:
+      - v
+      - vh
+  setspawn:
+  spawn:
+  sethome:
+  home:
+  help:
+  testplugin:
+    aliases:
+    - h
+    - hlp
+  teleporthere:
+    aliases:
+      - tphere
+      - s
+  teleport:
+    aliases:
+      - tp

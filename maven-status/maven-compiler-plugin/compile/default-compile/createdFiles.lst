@@ -1,0 +1,14 @@
+me\tendine\listeners\BuildListener.class
+me\tendine\TestPlugin.class
+me\tendine\commands\Spawn.class
+me\tendine\commands\Teleport.class
+me\tendine\commands\HelpCommand.class
+me\tendine\commands\SetSpawn.class
+me\tendine\listeners\FlyListener.class
+me\tendine\commands\Home.class
+me\tendine\commands\FlyCommand.class
+me\tendine\commands\TeleportHere.class
+me\tendine\commands\AntiBuild.class
+me\tendine\commands\MainCommand.class
+me\tendine\commands\SetHome.class
+me\tendine\commands\Vanish.class
